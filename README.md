@@ -4,10 +4,10 @@ The provided “training” data is shown in Figure 1. The file contains 1 440 0
 
 ### Filtering 
 ### Finding Peaks 
-![Alt text](Galery/Peaks.png?raw=true "Peaks")
+![Alt text](Gallery/Peaks.png?raw=true "Peaks")
 ### Windowing
-![Alt text](Galery/Windows.png?raw=true "Windows")
+![Alt text](Gallery/Windows.png?raw=true "Windows")
 
 ## Multi-Layer Perceptron (MLP)
-![Alt text](Galery/output.png?raw=true "output")
+![Alt text](Gallery/output.png?raw=true "output")
 
